@@ -37,11 +37,11 @@
 // console.log(age);
 
 
-let age = localStorage.getItem("age")
-if(age == null){
-    age = prompt("შეიყვანე ასაკი")
-    localStorage
-}
+// let age = localStorage.getItem("age")
+// if(age == null){
+//     age = prompt("შეიყვანე ასაკი")
+//     localStorage
+// }
 
 
 
